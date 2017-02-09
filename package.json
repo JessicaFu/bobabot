@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "botkit": "^0.2.2"
+    "botkit": "^0.2.2",
+    "express": "^4.14.0",
+    "google-auth-library": "^0.9.8",
+    "google-spreadsheet": "^2.0.3",
+    "googleapis": "^12.1.0",
+    "regex": "^0.1.1"
   }
 }
